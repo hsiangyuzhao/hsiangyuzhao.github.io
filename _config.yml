@@ -19,8 +19,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: xiangyu.zhao@sjtu.edu.com
-      link: mailto:xiangyu.zhao@sjtu.edu.com
+      value: xiangyu.zhao@sjtu.edu.cn
+      link: mailto:xiangyu.zhao@sjtu.edu.cn
   follow:
     - name: GitHub
       link: http://github.com/hsiangyuzhao
