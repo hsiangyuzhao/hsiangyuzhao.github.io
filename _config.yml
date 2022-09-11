@@ -1,0 +1,49 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Xiangyu Zhao (赵翔宇)
+description: >- # this means to ignore newlines until "baseurl:"
+  Xiangyu Zhao's Homepage
+baseurl: "" # the subpath of the site
+url: "https://hsiangyuzhao.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research
+    - name: Publications
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: xiangyu.zhao@sjtu.edu.com
+      link: mailto:xiangyu.zhao@sjtu.edu.com
+  follow:
+    - name: GitHub
+      link: http://github.com/hsiangyuzhao
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
