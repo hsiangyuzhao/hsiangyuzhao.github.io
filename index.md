@@ -26,7 +26,7 @@ University in the same year, under the supervision of Dr. Lichi Zhang.
 Zhao's research interests include segmentation and registration of medical images, few shot medical image segmentation
 and semi-supervised learning in medical images.
 
-## Representative Publications
+## Selected Publications
 
 ### As First-Authors
 
