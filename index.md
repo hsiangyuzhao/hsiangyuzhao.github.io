@@ -9,7 +9,7 @@ profile_picture:
 <tr>
 <td width="75%">
 <h1>Xiangyu Zhao</h1>
-<p><b>Graduate Student<b></p>
+<p><b>Graduate Student</b></p>
 <p><b>School of Biomedical Engineering, Shanghai Jiao Tong University</b></p>
 <p><b>Supervisor: Lichi Zhang</b></p>
 <p><b>E-Mail: xiangyu.zhao@sjtu.edu.cn</b></p>
