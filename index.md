@@ -21,7 +21,7 @@ profile_picture:
 ## Biography
 
 I am a Master student in [School of Biomedical Engineering](https://bme.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Shanghai, China. I received my B.Eng. degree from [Beihang University](https://www.buaa.edu.cn/), Beijing, China, in June 2021, and was awarded as a Beijing Excellent Graduate (top 5%). I joined [Medical Image Computing Lab](https://mic.sjtu.edu.cn/) in Fall 2021, under the supervision of Dr. Lichi Zhang.  
-My research interests lies in medical image analysis, including medical image segmentation and registration, few shot learning and semi-supervised learning in medical images, and the development of multi-modality foundation models in medical domain.
+My research interests lies in medical image analysis, including medical image segmentation and registration, few shot learning and semi-supervised learning in medical images, and the development of multi-modality foundation models in medical domain. I am also working as a research intern in [United Imaging Intelligence](https://www.uii-ai.com/).
 
 ## First-Author Publications
 
