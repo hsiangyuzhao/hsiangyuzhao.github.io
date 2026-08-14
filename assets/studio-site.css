@@ -478,6 +478,17 @@
   font-size: 15px;
 }
 
+.layout-studio .experience-list .supervisor-line {
+  margin-top: 5px;
+  color: #687680;
+  font-size: 13px;
+  line-height: 1.55;
+}
+
+.layout-studio .experience-list .supervisor-line a {
+  font-weight: 600;
+}
+
 .layout-studio .experience-list time {
   color: #7d8992;
   text-align: right;
